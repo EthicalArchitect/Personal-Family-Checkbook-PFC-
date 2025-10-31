@@ -1,0 +1,7 @@
+{
+  "name": "PFC - Personal Family Checkbook",
+  "description": "A collaborative checkbook for families to manage expenses. Members can add transactions manually or by scanning receipts with AI to automatically categorize spending and update the shared family balance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
